@@ -22,7 +22,7 @@
     "fine-uploader": "^5.15.7",
     "jquery": "^3.3",
     "laravel-mix": "^4.0.7",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "marked": "^0.3.17",
     "path-to-regexp": "^1.7.0",
     "popper.js": "^1.13.0",
