@@ -20,7 +20,7 @@
     "cross-env": "^5.1",
     "emojione": "^2.2.7",
     "fine-uploader": "^5.15.7",
-    "jquery": "^3.3",
+    "jquery": "^3.5",
     "laravel-mix": "^4.0.7",
     "lodash": "^4.17.5",
     "marked": "^0.3.17",
