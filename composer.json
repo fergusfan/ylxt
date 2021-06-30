@@ -22,7 +22,8 @@
         "predis/predis": "^1.1",
         "spatie/laravel-permission": "^2.23",
         "tucker-eric/eloquentfilter": "^1.4",
-        "yzalis/identicon": "^1.2"
+        "yzalis/identicon": "^1.2",
+        "league/flysystem": "1.1.4"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
